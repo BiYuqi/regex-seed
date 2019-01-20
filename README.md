@@ -11,10 +11,10 @@
 ](https://github.com/BiYuqi/regex-seed/issues/1)
 - [x] [中划线字符转换为驼峰](https://github.com/BiYuqi/regex-seed/issues/2)
 - [x] [获取并解析url参数](https://github.com/BiYuqi/regex-seed/issues/3)
+- [x] [获取代码段文件的代码块](https://github.com/BiYuqi/regex-seed/issues/4)
 
 
 ## TODO
 
 - [ ] 判断日期格式是否符合 '2019-01-01'的形式
-- [ ] 获取代码段文件的代码块
 - [ ] 获取html页面中script内部代码
