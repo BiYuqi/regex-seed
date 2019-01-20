@@ -5,8 +5,9 @@
 - [x] [必须包含数字字母特殊字符
 ](https://github.com/BiYuqi/regex-seed/issues/1)
 - [x] [中划线字符转换为驼峰](https://github.com/BiYuqi/regex-seed/issues/2)
+- [x] [获取并解析url参数](https://github.com/BiYuqi/regex-seed/issues/3)
+
 
 ## TODO
 
-- [ ] 获取并解析url参数
 - [ ] 判断日期格式是否符合 '2019-01-01'的形式
