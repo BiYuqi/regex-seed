@@ -17,10 +17,9 @@
 - [x] [获取并解析url参数](https://github.com/BiYuqi/regex-seed/issues/3)
 - [x] [获取代码段文件的代码块](https://github.com/BiYuqi/regex-seed/issues/4)
 - [x] [零宽断言之正预测先行断言(?=exp)用法](https://github.com/BiYuqi/regex-seed/issues/5)
-
+- [x] [零宽断言之负预测先行断言(?!exp)用法](https://github.com/BiYuqi/regex-seed/issues/6)
 
 ## TODO
 
 - [ ] 判断日期格式是否符合 '2019-01-01'的形式
 - [ ] 获取html页面中script内部代码
-- [ ] 零宽断言之负预测先行断言(?!exp)用法
